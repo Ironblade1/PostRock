@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="400" src="/project-pic/Screeshot(50).png/">
+<img align="left" alt="Coding" width="400" src="PostRock/project-pic/Screenshot (50).png">
 
 
 
